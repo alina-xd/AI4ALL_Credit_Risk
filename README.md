@@ -2,7 +2,7 @@
 
 Welcome!
 
-This is a group project created by Alina Du, Natasha Borda, Mildred Nwachukwu-Innocent, and Tanesha Fuller as a part of an AI4ALL cohort. Under the finance category, we have chosen to focus on the topic of Credit Risk with the goal of enhancing predictions with Artificial Intelligence. 
+This is a group project created by Alina Du, Natasha Borda, Mildred Nwachukwu-Innocent, and Tanesha Fuller as a part of an AI4ALL cohort. Under the finance category, we have chosen to focus on the topic of Credit Risk with the goal of enhancing predictions using Artificial Intelligence. 
 
 Overview: What is Credit Risk?
 Credit Risk refers to the probability of default. In the context of finance and banking, defaulting is defined as a borrower’s failure to repay money they owe. Banks and lenders use models to predict the likelihood of default, which ultimately determines who is eligible for loans or credit.
