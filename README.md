@@ -9,7 +9,11 @@ Credit Risk refers to the probability of default. In the context of finance and 
 
 ## Importance
 
-This project is significant because within the United States, these credit risk models impact people’s access to housing, education, and business opportunities. If these models are biased, they can unfairly exclude qualified candidates--especially those from historically marginalized communities.
+This project is significant because within the United States, these credit risk models impact people’s access to housing, education, and business opportunities. If these models are biased, they can unfairly exclude qualified candidates--especially those from historically marginalized communities. 
+
+This project examines how AI models predict credit risk and exposes how structural inequality enters the model, even when location data like ZIP code is removed. By analyzing fairness across income, education, and employment, we show that “bias by ZIP” can persist implicitly through correlated features.
+
+Our goal isn’t only to improve predictive accuracy, but to make the credit risk process more transparent and equitable — proving that fairness in finance requires both technical precision and historical context.
 
 ## Research Question
 
